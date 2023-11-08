@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 27 17:19:28 2023
 
-@author: avina
+@author: avinash
 """
 
 def find_common(str1,str2):
