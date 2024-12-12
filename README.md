@@ -1,6 +1,6 @@
 # String Harmony Builder
 
-
+# IMPLEMENTATION:
 # Explanation of find_common() function:
 1) The Function find_common() is used inorder to find the common strings from the input strings.
 2) In find_common() I used min_len inorder to calculate the minimum length between two strings (So that it won't index out of bound while comparing).
